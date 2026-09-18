@@ -54,3 +54,4 @@ Plaintext
 Desenvolvido por Nickolas da Silva
 
 GitHub: @nickolasdasilva39-cmd
+LinkedIn: [(https://www.linkedin.com/in/nickolas-coquejo-2a5295408/)]
