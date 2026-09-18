@@ -43,3 +43,14 @@ Pré-requisitos: Um navegador web moderno (Chrome, Firefox, Edge, Safari) e um e
 1. Clone este repositório em sua máquina local:
 ```bash
 git clone [https://github.com/nickolasdasilva39-cmd/NOME-DO-REPOSITORIO.git](https://github.com/nickolasdasilva39-cmd/NOME-DO-REPOSITORIO.git)
+📁 Estrutura de Arquivos
+Plaintext
+├── index.html    # Estrutura principal, conteúdo e meta-tags
+├── styles.css    # Regras de estilização, variáveis de cor e responsividade
+├── script.js     # Interatividade, acessibilidade dinâmica e atualização de data
+└── README.md     # Documentação do projeto
+
+👨‍💻 Autor
+Desenvolvido por Nickolas da Silva
+
+GitHub: @nickolasdasilva39-cmd
